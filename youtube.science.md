@@ -32,5 +32,7 @@ https://www.youtube.com/@periodicvideos
 https://www.youtube.com/@psyfile
 # Sabine Hossenfelder
 https://www.youtube.com/@SabineHossenfelder
+# Santa Fe Institute
+https://www.youtube.com/@SFIScience
 # Sean Carroll
 https://www.youtube.com/@seancarroll
