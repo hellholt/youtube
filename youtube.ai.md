@@ -14,5 +14,7 @@ https://www.youtube.com/@davidrandallmiller
 https://www.youtube.com/@EdanMeyer
 # Latent Space
 https://www.youtube.com/@LatentSpacePod
+# The Neural Maze
+https://www.youtube.com/@TheNeuralMaze
 # Primer
 https://www.youtube.com/@PrimerBlobs
