@@ -18,3 +18,5 @@ https://www.youtube.com/@LatentSpacePod
 https://www.youtube.com/@TheNeuralMaze
 # Primer
 https://www.youtube.com/@PrimerBlobs
+# Welch Labs
+https://www.youtube.com/@WelchLabsVideo
