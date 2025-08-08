@@ -18,6 +18,8 @@ https://www.youtube.com/@FredrikKnudsen
 https://www.youtube.com/@hbomberguy
 # Innuendo Studios
 https://www.youtube.com/@InnuendoStudios
+# Jarrett Moore
+https://www.youtube.com/@jarrettmoore6458
 # Jenny Nicholson
 https://www.youtube.com/@JennyNicholson
 # Jon Bois
