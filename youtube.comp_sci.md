@@ -1,3 +1,5 @@
+# 10 Minute Physics
+https://www.youtube.com/@TenMinutePhysics
 # ComputerPhile
 https://www.youtube.com/@Computerphile
 # Context Free
