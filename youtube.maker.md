@@ -6,6 +6,8 @@ https://www.youtube.com/@AlphaPhoenixChannel
 https://www.youtube.com/@BenEater
 # Ben Heck Hacks
 https://www.youtube.com/@BenHeckHacks
+# Bitluni
+https://www.youtube.com/@bitluni
 # Great Scott!
 https://www.youtube.com/@greatscottlab
 # Hugh Jeffreys
