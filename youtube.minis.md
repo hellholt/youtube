@@ -26,6 +26,8 @@ https://www.youtube.com/@MikeMeeple
 https://www.youtube.com/@NightShiftScaleModels
 # Ninjon
 https://www.youtube.com/@Ninjon
+# Painting With Bennett
+https://www.youtube.com/@PaintingWithBennett
 # Sonic Sledgehammer
 https://www.youtube.com/@SonicSledgehammerStudio
 # Tabletop Minions
