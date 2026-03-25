@@ -4,6 +4,8 @@ https://www.youtube.com/@RobCosmanWoodworking
 https://www.youtube.com/@essentialcraftsman
 # Farm Craft 101
 https://www.youtube.com/@FarmCraft101
+# Full Stack Woodworking
+https://www.youtube.com/@FullStackWoodworking
 # Last Best Tool
 https://www.youtube.com/@lastbesttool
 # Popular Woodworking

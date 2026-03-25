@@ -1,5 +1,7 @@
 # 10 Minute Physics
 https://www.youtube.com/@TenMinutePhysics
+# Chris Staecker
+https://www.youtube.com/@ChrisStaecker
 # ComputerPhile
 https://www.youtube.com/@Computerphile
 # Context Free
