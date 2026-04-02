@@ -4,6 +4,8 @@ https://www.youtube.com/@TenMinutePhysics
 https://www.youtube.com/@ChrisStaecker
 # ComputerPhile
 https://www.youtube.com/@Computerphile
+# Computable Secrets
+https://www.youtube.com/@computablesecrets
 # Context Free
 https://www.youtube.com/@contextfree
 # Creel
